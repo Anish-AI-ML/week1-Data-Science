@@ -1,0 +1,53 @@
+{
+  "source_rows": 51290,
+  "duplicates_removed": 0,
+  "clean_rows": 51290,
+  "missing_postal_code": 41296,
+  "other_missing_values": 0,
+  "total_revenue": 12642501.90988,
+  "total_profit": 1467457.2912799998,
+  "unique_orders": 25728,
+  "units_sold": 178312,
+  "statistics": {
+    "Mean": 246.4905812025736,
+    "Median": 85.053,
+    "Mode": 12.96,
+    "Variance": 237719.9807971002
+  },
+  "region_sales": {
+    "Western Europe": 1731929.6685,
+    "Central America": 1223100.62816,
+    "Oceania": 1100184.612,
+    "Southeastern Asia": 884423.169,
+    "Southern Asia": 866572.677,
+    "Eastern Asia": 855059.391,
+    "Western US": 725457.8245,
+    "Eastern US": 678781.24,
+    "Northern Europe": 636779.157,
+    "South America": 617223.67788,
+    "Southern Europe": 608593.968,
+    "Central US": 501239.8908,
+    "Southern US": 391721.905,
+    "Caribbean": 324280.86104,
+    "Western Asia": 317106.96,
+    "Eastern Europe": 310033.44,
+    "North Africa": 233216.61000000002,
+    "Western Africa": 173878.812,
+    "Central Africa": 143630.01,
+    "Eastern Africa": 127856.019,
+    "Southern Africa": 105191.76,
+    "Canada": 66928.17,
+    "Central Asia": 19311.459
+  },
+  "category_sales": {
+    "Technology": 4744557.49808,
+    "Furniture": 4110451.8983,
+    "Office Supplies": 3787492.5135
+  },
+  "yearly_sales": {
+    "2012": 2259450.89554,
+    "2013": 2677438.6944,
+    "2014": 3405746.44938,
+    "2015": 4299865.87056
+  }
+}
